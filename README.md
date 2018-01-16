@@ -1,6 +1,6 @@
 # 愛知県公立高校入試の推定必要当日点を予想するエクセル
 
-<img width="1174" alt="2017-12-17 11 24 08" src="https://user-images.githubusercontent.com/32217053/34076023-e0b99f00-e31c-11e7-8add-133eb7003e9f.png">
+<img width="1000" alt="2017-12-17 11 24 08" src="https://user-images.githubusercontent.com/32217053/34966677-c3290048-faa0-11e7-87e8-7ae84052a171.gif">
 
 MIT License
 
